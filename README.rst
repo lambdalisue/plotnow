@@ -1,14 +1,14 @@
 plotnow
 ==========================
-.. image:: https://pypip.in/d/plotnow/badge.png
+.. image:: https://img.shields.io/pypi/dm/plotnow.svg
     :target: https://pypi.python.org/pypi/plotnow/
     :alt: Downloads
 
-.. image:: https://pypip.in/v/plotnow/badge.png
+.. image:: https://img.shields.io/pypi/v/plotnow.svg
     :target: https://pypi.python.org/pypi/plotnow/
     :alt: Latest version
 
-.. image:: https://pypip.in/wheel/plotnow/badge.png
+.. image:: https://img.shields.io/pypi/wheel/plotnow.svg
     :target: https://pypi.python.org/pypi/plotnow/
     :alt: Wheel Status
 
@@ -16,7 +16,7 @@ plotnow
     :target: https://pypi.python.org/pypi/plotnow/
     :alt: Egg Status
 
-.. image:: https://pypip.in/license/plotnow/badge.png
+.. image:: https://img.shields.io/pypi/l/plotnow.svg
     :target: https://pypi.python.org/pypi/plotnow/
     :alt: License
 
